@@ -1,0 +1,11 @@
+C:\Users\47494034\source\repos\proyecto con sophy\proyecto con sophy\bin\Debug\proyecto con sophy.exe.config
+C:\Users\47494034\source\repos\proyecto con sophy\proyecto con sophy\bin\Debug\proyecto con sophy.exe
+C:\Users\47494034\source\repos\proyecto con sophy\proyecto con sophy\bin\Debug\proyecto con sophy.pdb
+C:\Users\47494034\source\repos\proyecto con sophy\proyecto con sophy\obj\Debug\proyecto con sophy.csprojAssemblyReference.cache
+C:\Users\47494034\source\repos\proyecto con sophy\proyecto con sophy\obj\Debug\proyecto_con_sophy.Form1.resources
+C:\Users\47494034\source\repos\proyecto con sophy\proyecto con sophy\obj\Debug\proyecto_con_sophy.Form2.resources
+C:\Users\47494034\source\repos\proyecto con sophy\proyecto con sophy\obj\Debug\proyecto_con_sophy.Properties.Resources.resources
+C:\Users\47494034\source\repos\proyecto con sophy\proyecto con sophy\obj\Debug\proyecto con sophy.csproj.GenerateResource.cache
+C:\Users\47494034\source\repos\proyecto con sophy\proyecto con sophy\obj\Debug\proyecto con sophy.csproj.CoreCompileInputs.cache
+C:\Users\47494034\source\repos\proyecto con sophy\proyecto con sophy\obj\Debug\proyecto con sophy.exe
+C:\Users\47494034\source\repos\proyecto con sophy\proyecto con sophy\obj\Debug\proyecto con sophy.pdb
