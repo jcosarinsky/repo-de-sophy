@@ -27,5 +27,16 @@ namespace previa_proyecto
                 F2.Show();
             }
         }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text != string.Empty)
+            {
+                string Mensaje = textBox1.Text;
+                Form3 F3 = new Form3(Mensaje);
+                this.Hide();
+                F3.Show();
+            }
+        }
     }
 }
