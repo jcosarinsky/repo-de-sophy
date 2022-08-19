@@ -23,7 +23,7 @@ namespace previa_proyecto
             {
                 string Mensaje = textBox1.Text;
                 Form2 F2 = new Form2(Mensaje);
-                this.Hide();
+                this.Hide();    
                 F2.Show();
             }
         }

@@ -12,10 +12,10 @@ namespace previa_proyecto
 {
     public partial class Form2 : Form
     {
-        public Form2()
+        public Form2(string Mensaje)
         {
             InitializeComponent();
-            label1.Text = Mensaje;
+            
         }
 
         private void Label1_Click(object sender, EventArgs e)

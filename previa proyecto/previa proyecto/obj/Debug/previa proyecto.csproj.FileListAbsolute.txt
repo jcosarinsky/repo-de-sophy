@@ -4,3 +4,8 @@ C:\Users\47494034\source\repos\previa proyecto\previa proyecto\obj\Debug\previa_
 C:\Users\47494034\source\repos\previa proyecto\previa proyecto\obj\Debug\previa_proyecto.Properties.Resources.resources
 C:\Users\47494034\source\repos\previa proyecto\previa proyecto\obj\Debug\previa proyecto.csproj.GenerateResource.cache
 C:\Users\47494034\source\repos\previa proyecto\previa proyecto\obj\Debug\previa proyecto.csproj.CoreCompileInputs.cache
+C:\Users\47494034\source\repos\previa proyecto\previa proyecto\bin\Debug\previa proyecto.exe.config
+C:\Users\47494034\source\repos\previa proyecto\previa proyecto\bin\Debug\previa proyecto.exe
+C:\Users\47494034\source\repos\previa proyecto\previa proyecto\bin\Debug\previa proyecto.pdb
+C:\Users\47494034\source\repos\previa proyecto\previa proyecto\obj\Debug\previa proyecto.exe
+C:\Users\47494034\source\repos\previa proyecto\previa proyecto\obj\Debug\previa proyecto.pdb
