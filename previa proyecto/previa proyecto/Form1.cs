@@ -16,5 +16,16 @@ namespace previa_proyecto
         {
             InitializeComponent();
         }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text != string.Empty)
+            {
+                string Mensaje = textBox1.Text;
+                Form2 F2 = new Form2(Mensaje);
+                this.Hide();
+                F2.Show();
+            }
+        }
     }
 }

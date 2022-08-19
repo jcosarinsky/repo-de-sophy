@@ -15,6 +15,12 @@ namespace previa_proyecto
         public Form2()
         {
             InitializeComponent();
+            label1.Text = Mensaje;
+        }
+
+        private void Label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

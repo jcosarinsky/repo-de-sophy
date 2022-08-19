@@ -1,0 +1,6 @@
+C:\Users\47494034\source\repos\previa proyecto\previa proyecto\obj\Debug\previa proyecto.csprojAssemblyReference.cache
+C:\Users\47494034\source\repos\previa proyecto\previa proyecto\obj\Debug\previa_proyecto.Form1.resources
+C:\Users\47494034\source\repos\previa proyecto\previa proyecto\obj\Debug\previa_proyecto.Form2.resources
+C:\Users\47494034\source\repos\previa proyecto\previa proyecto\obj\Debug\previa_proyecto.Properties.Resources.resources
+C:\Users\47494034\source\repos\previa proyecto\previa proyecto\obj\Debug\previa proyecto.csproj.GenerateResource.cache
+C:\Users\47494034\source\repos\previa proyecto\previa proyecto\obj\Debug\previa proyecto.csproj.CoreCompileInputs.cache
