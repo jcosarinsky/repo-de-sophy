@@ -9,3 +9,4 @@ C:\Users\47494034\source\repos\previa proyecto\previa proyecto\bin\Debug\previa 
 C:\Users\47494034\source\repos\previa proyecto\previa proyecto\bin\Debug\previa proyecto.pdb
 C:\Users\47494034\source\repos\previa proyecto\previa proyecto\obj\Debug\previa proyecto.exe
 C:\Users\47494034\source\repos\previa proyecto\previa proyecto\obj\Debug\previa proyecto.pdb
+C:\Users\47494034\source\repos\previa proyecto\previa proyecto\obj\Debug\previa_proyecto.Form3.resources
