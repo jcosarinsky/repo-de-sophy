@@ -22,5 +22,13 @@ namespace previa_proyecto
         {
 
         }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+
+            this.Close();
+
+            this.Hide();
+        }
     }
 }

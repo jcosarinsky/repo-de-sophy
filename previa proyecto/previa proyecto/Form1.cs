@@ -12,7 +12,7 @@ namespace previa_proyecto
 {
     public partial class Form1 : Form
     {
-        public Form1()
+        public Form1(string Mensaje)
         {
             InitializeComponent();
         }
@@ -22,7 +22,7 @@ namespace previa_proyecto
             if (textBox1.Text != string.Empty)
             {
                 string Mensaje = textBox1.Text;
-                Form2 F2 = new Form2(Mensaje);
+                Form2 F2 = new Form2(Mensaje, this);
                 this.Hide();    
                 F2.Show();
             }

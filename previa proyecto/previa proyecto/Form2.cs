@@ -12,10 +12,18 @@ namespace previa_proyecto
 {
     public partial class Form2 : Form
     {
-        public Form2(string Mensaje)
+        Form3 F3;
+        public Form2(string Mensaje, Form F1)
         {
             InitializeComponent();
+
             label1.Text = Mensaje;
+
+            F3 = new Form3(Mensaje);
+            if (F3 == null)
+            {
+                F1.Show(); 
+            }
             
         }
 
@@ -29,7 +37,7 @@ namespace previa_proyecto
             if (textBox1.Text != string.Empty)
             {
                 string Mensaje = textBox1.Text;
-                Form3 F3 = new Form3(Mensaje);
+                
                 this.Hide();
                 F3.Show();
             }
